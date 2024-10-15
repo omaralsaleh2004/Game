@@ -52,3 +52,19 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.startBtn {
+  margin-top: 26px;
+  font-size: 25px;
+  width: 150px;
+  height: 60px;
+  border-radius: 20%;
+  border: none;
+  background-color:tomato;
+  color: #FEF2BF;
+  transition: 0.7s;
+  cursor: pointer;
+}
+.startBtn:hover {
+  background-color: crimson;
+}
